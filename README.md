@@ -1,2 +1,0 @@
-# zth-ticket-system
- 
