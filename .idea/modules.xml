@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/zth-ticket-system.iml" filepath="$PROJECT_DIR$/.idea/zth-ticket-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zth-ticket-system.iml" filepath="$PROJECT_DIR$/zth-ticket-system.iml" />
     </modules>
   </component>
 </project>
